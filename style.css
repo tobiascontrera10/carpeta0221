@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 1cm;
+}
+h1{
+    color: black;
+    width: 96%;
+    background-color: rgb(145, 255, 0);
+    padding: 20px;
+    font-family: sans-serif;
+}
+h2{
+    padding: 20px;
+    border: 2px solid rgb(145, 255, 0);
+}
